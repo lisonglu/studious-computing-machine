@@ -1,0 +1,12 @@
+[submodule "ShellLib"]
+	path = ShellLib
+	url = git@github.com:Intellia/ShellLib.git
+[submodule "PythonLib"]
+	path = PythonLib
+	url = git@github.com:Intellia/PythonLib.git
+[submodule "CppLib"]
+	path = CppLib
+	url = git@github.com:Intellia/CppLib.git
+[submodule "cmake"]
+	path = cmake
+	url = git@github.com:Intellia/CMakeModules.git
